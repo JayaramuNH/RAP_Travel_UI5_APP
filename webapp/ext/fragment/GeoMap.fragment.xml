@@ -3,7 +3,6 @@
     xmlns:vbm="sap.ui.vbm">
 	<VBox>
 		<Text text="GeoMap" />
-
 		<vbm:AnalyticMap width="100%" xmlns:l="sap.ui.layout" height="600px" initialPosition="-47.48339103742949; 48.70365903454684;0" initialZoom="2" class="sapUiMediumMarginTop">
         <vbm:vos>
             <vbm:Routes>
